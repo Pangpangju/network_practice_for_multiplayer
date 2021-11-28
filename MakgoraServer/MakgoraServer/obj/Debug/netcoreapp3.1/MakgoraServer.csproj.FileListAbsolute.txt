@@ -1,0 +1,13 @@
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\bin\Debug\netcoreapp3.1\MakgoraServer.exe
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\bin\Debug\netcoreapp3.1\MakgoraServer.deps.json
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\bin\Debug\netcoreapp3.1\MakgoraServer.runtimeconfig.json
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\bin\Debug\netcoreapp3.1\MakgoraServer.runtimeconfig.dev.json
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\bin\Debug\netcoreapp3.1\MakgoraServer.dll
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\bin\Debug\netcoreapp3.1\MakgoraServer.pdb
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\obj\Debug\netcoreapp3.1\MakgoraServer.csprojAssemblyReference.cache
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\obj\Debug\netcoreapp3.1\MakgoraServer.AssemblyInfoInputs.cache
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\obj\Debug\netcoreapp3.1\MakgoraServer.AssemblyInfo.cs
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\obj\Debug\netcoreapp3.1\MakgoraServer.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\obj\Debug\netcoreapp3.1\MakgoraServer.dll
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\obj\Debug\netcoreapp3.1\MakgoraServer.pdb
+C:\WorkSpaces\Unity\MakgoraServer\MakgoraServer\obj\Debug\netcoreapp3.1\MakgoraServer.genruntimeconfig.cache
